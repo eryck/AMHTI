@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AMH TI</string>
+    <string name="app_name">Equipamentos AMH</string>
+    <string name="login">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="bt_login">Login</string>
+    <string name="equipamentos">Equipamentos</string>
 </resources>

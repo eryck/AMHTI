@@ -1,7 +1,9 @@
-package com.projetos.amhti;
+package com.projetos.amhti.View;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.projetos.amhti.R;
 
 public class MainActivity extends AppCompatActivity {
 
