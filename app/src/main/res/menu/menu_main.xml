@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <item
+        android:id="@+id/item_add_uniade"
+        android:icon="@drawable/ic_novo"
+        app:showAsAction="ifRoom"
+        android:title="@string/item_add_unidade" />
+    <item
+        android:id="@+id/item_sair"
+        android:title="@string/sair"
+        app:showAsAction="never"/>
 </menu>

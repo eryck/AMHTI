@@ -4,4 +4,6 @@
     <string name="senha">Senha</string>
     <string name="bt_login">Login</string>
     <string name="equipamentos">Equipamentos</string>
+    <string name="item_add_unidade">Adicionar Unidade</string>
+    <string name="sair">Sair</string>
 </resources>
