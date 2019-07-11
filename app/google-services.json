@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "238947811880",
+    "firebase_url": "https://autenticacaofirebase-2ec42.firebaseio.com",
+    "project_id": "autenticacaofirebase-2ec42",
+    "storage_bucket": "autenticacaofirebase-2ec42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238947811880:android:725f3fa9a31a63af",
+        "android_client_info": {
+          "package_name": "com.projetos.amhti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238947811880-s4dpqbh9jcd0i24t8qganpugs2pk7n61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projetos.amhti",
+            "certificate_hash": "c619dba06ba17831fe59f1df3fdbe8bc2a2f81d9"
+          }
+        },
+        {
+          "client_id": "238947811880-99o38vii085948pngqbt83124bd7itck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo_cQU3wzUMD-RMFjvmMOV9NW-IkfsAs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238947811880-99o38vii085948pngqbt83124bd7itck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
