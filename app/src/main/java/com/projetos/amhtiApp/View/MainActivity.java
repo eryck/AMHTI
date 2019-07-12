@@ -29,6 +29,9 @@ public class MainActivity extends AppCompatActivity {
         toolbar.setTitle("Unidades");
         setSupportActionBar(toolbar);
 
+        //RecyclerView
+
+
     }
 
     //Sobreescrita da classe menu do toolbar
