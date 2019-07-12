@@ -9,9 +9,7 @@ public class Usuario {
     public Usuario() {
     }
 
-    public String getIdUsuario() {
-        return idUsuario;
-    }
+    public String getIdUsuario() { return idUsuario; }
 
     public void setIdUsuario(String idUsuario) {
         this.idUsuario = idUsuario;
