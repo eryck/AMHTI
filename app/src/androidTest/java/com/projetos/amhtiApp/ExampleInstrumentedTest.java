@@ -1,4 +1,4 @@
-package com.projetos.amhti;
+package com.projetos.amhtiApp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

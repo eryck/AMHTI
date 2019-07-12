@@ -1,4 +1,4 @@
-package com.projetos.amhti.Model;
+package com.projetos.amhtiApp.Model;
 
 public class Unidades {
     private String nomeUnidade;

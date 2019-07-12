@@ -1,4 +1,4 @@
-package com.projetos.amhti;
+package com.projetos.amhtiApp;
 
 import org.junit.Test;
 
